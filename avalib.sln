@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "avalib", "ChangeFile\avalib.csproj", "{732C3387-E461-425A-9272-9C2B05DE20AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ava1", "..\ava\ava1\ava1.csproj", "{1BB243C2-3D9A-4EE5-A986-2770CCAD866A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{732C3387-E461-425A-9272-9C2B05DE20AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{732C3387-E461-425A-9272-9C2B05DE20AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{732C3387-E461-425A-9272-9C2B05DE20AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{732C3387-E461-425A-9272-9C2B05DE20AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB243C2-3D9A-4EE5-A986-2770CCAD866A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB243C2-3D9A-4EE5-A986-2770CCAD866A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB243C2-3D9A-4EE5-A986-2770CCAD866A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB243C2-3D9A-4EE5-A986-2770CCAD866A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D8D7FDF-B09D-4A85-9372-FC5174479C98}
+	EndGlobalSection
+EndGlobal
